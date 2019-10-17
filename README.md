@@ -10,3 +10,6 @@ The general install instructions for the projects (For Eclipse IDE)
 4. Run
 
 ```PS, some of the projects use their own package name, please read the top line [Eg. project2]```
+
+# Notes
+Lab 1 was only a test lab, and thus, not included here.

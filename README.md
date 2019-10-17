@@ -1,5 +1,5 @@
 # CMSC-203
-Computer Science 203 Projects. See each folder for individual projects.
+Computer Science 203 Projects and labs. See each folder for individual projects/labs. Based off of CMSC203 course in the Computer Science course track. All code was written and submitted by me, only use the code as a reference.
 
 # Installation 
 The general install instructions for the projects (For Eclipse IDE)

@@ -13,3 +13,4 @@ The general install instructions for the projects (For Eclipse IDE)
 
 # Notes
 Lab 1 was only a test lab, and thus, not included here.
+Lab 8 was a worksheet, no actual code was written.

@@ -5,10 +5,10 @@ import java.util.Scanner;
 // Classes
 public class Project1 {
 	// Variables
-	static String college_name = "Montgomery College, Rockville";
-	static String class_name = "CMSC 201";
-	static String class_instructor = "Alla Webb";
-	static String project_author = "Alec Mattu";
+	static String college_name = "";
+	static String class_name = "";
+	static String class_instructor = "";
+	static String project_author = "";
 	static String project_name = "Project 1";
 	static String project_desc = "A simple Java based loan payment amount calculator";
 	static String project_due = "09/15/2019";
